@@ -16,11 +16,4 @@
 
 ---
 
-### 📈 Mis estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
-
----
-
 ✨ _“El código es como el humor: cuando tienes que explicarlo, no es bueno.”_ ✨
