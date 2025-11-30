@@ -8,7 +8,6 @@ def insercion(lista):
 
         j = i - 1
 
-        # Mover elementos mayores a la derecha
         while j >= 0 and lista[j] > valor:
             print(f"  {lista[j]} es mayor que {valor}, moviendo {lista[j]} a la derecha")
             lista[j + 1] = lista[j]
