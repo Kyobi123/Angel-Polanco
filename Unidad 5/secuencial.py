@@ -1,4 +1,5 @@
-# Búsaqueda secuencial
+# Búsqueda secuencial
+
 def sequential_search(students, target_id):
     for i, s in enumerate(students):
         if s['id'] == target_id:
